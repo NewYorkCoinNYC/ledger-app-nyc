@@ -1,0 +1,9 @@
+bin
+debug
+dep
+obj
+src/glyphs.c
+src/glyphs.h
+*.pyc
+.idea
+.vscode
