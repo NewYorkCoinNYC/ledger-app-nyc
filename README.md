@@ -1,5 +1,5 @@
-# ledger-app-nyc
-Newyorkcoin wallet application for Ledger Nano S and Nano X
+# ledger-app-qbc
+Quebecoin wallet application for Ledger Nano S and Nano X
 
 
 This follows the beta specification at https://ledgerhq.github.io/btchip-doc/bitcoin-technical-beta.html - with the regular set of APDUs for standard wallet operations enabled.
